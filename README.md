@@ -17,4 +17,4 @@ The process involves first selecting whether you are playing black or white. If 
 
 ## Credits
 
-Chess engine: `https://github.com/sandermvdb/chess22k/tree/master`
+Chess engine: https://github.com/sandermvdb/chess22k/tree/master
